@@ -11,3 +11,6 @@ of Wednesday, Jun 13 2018 the last stable release is 1.7.2, dated December
 19, 2016.  So yes, development has stopped.  Time to move on to three.js
 or just use WebGL; given that development of x3dom has stopped at a broken
 version.
+
+This software project is, for the most part, just used in the CRTS
+project: https://github.com/vtwireless/crts.git
